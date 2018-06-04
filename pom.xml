@@ -125,7 +125,7 @@
             </plugins>
         </pluginManagement>
     </build>
-
+ 
     <dependencies>
         <!-- Apache Kafka dependencies -->
         <dependency>
